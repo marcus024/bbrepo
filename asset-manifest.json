@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/bbrepo/static/css/main.e9466c31.css",
+    "main.js": "/bbrepo/static/js/main.f5f94dc1.js",
+    "static/js/453.59a85cbf.chunk.js": "/bbrepo/static/js/453.59a85cbf.chunk.js",
+    "static/media/kiss.gif": "/bbrepo/static/media/kiss.b096fd243f66477054a2.gif",
+    "static/media/26.jpg": "/bbrepo/static/media/26.b77861624a826092e96c.jpg",
+    "static/media/13.jpg": "/bbrepo/static/media/13.9fc6c309f9dc816f0590.jpg",
+    "static/media/15.jpg": "/bbrepo/static/media/15.d0e4a4142e47e1b3116a.jpg",
+    "static/media/14.jpg": "/bbrepo/static/media/14.714ee82e2c57c1786fcd.jpg",
+    "static/media/18.jpg": "/bbrepo/static/media/18.0517576a06b8c4f9b2e2.jpg",
+    "static/media/19.jpg": "/bbrepo/static/media/19.69f6b20e3a35dbf78d20.jpg",
+    "static/media/28.jpg": "/bbrepo/static/media/28.6120fffcffbaa615d25b.jpg",
+    "static/media/8.jpg": "/bbrepo/static/media/8.c0a089dd68c65b5b35e0.jpg",
+    "static/media/21.jpg": "/bbrepo/static/media/21.9e8ca098bf68114eea17.jpg",
+    "static/media/17.jpg": "/bbrepo/static/media/17.8eb2eae47ad958619593.jpg",
+    "static/media/16.jpg": "/bbrepo/static/media/16.84529532f25913169e44.jpg",
+    "static/media/9.jpg": "/bbrepo/static/media/9.38098d3865546c569a19.jpg",
+    "static/media/10.jpg": "/bbrepo/static/media/10.35da4daeb35c22edb9d5.jpg",
+    "static/media/27.jpg": "/bbrepo/static/media/27.92e5942fcc42be08f9d3.jpg",
+    "static/media/20.jpg": "/bbrepo/static/media/20.46930523d5d276505022.jpg",
+    "static/media/12.jpg": "/bbrepo/static/media/12.a654ddc3d62ecf35c397.jpg",
+    "static/media/11.jpg": "/bbrepo/static/media/11.cae8d53a3bb7a50b9b86.jpg",
+    "static/media/29.jpg": "/bbrepo/static/media/29.a7dac8d315397a776895.jpg",
+    "static/media/23.jpg": "/bbrepo/static/media/23.983a5ec7079cd44913fe.jpg",
+    "static/media/7.jpg": "/bbrepo/static/media/7.2f4b7fc85bb42eeae425.jpg",
+    "static/media/5.jpg": "/bbrepo/static/media/5.c921c3c0c76af61c5cc9.jpg",
+    "static/media/24.jpg": "/bbrepo/static/media/24.7d329058986ed26238c9.jpg",
+    "static/media/22.jpg": "/bbrepo/static/media/22.598a49eb1cfb7130699e.jpg",
+    "static/media/25.jpg": "/bbrepo/static/media/25.f443469f10ee6a16afc6.jpg",
+    "index.html": "/bbrepo/index.html",
+    "main.e9466c31.css.map": "/bbrepo/static/css/main.e9466c31.css.map",
+    "main.f5f94dc1.js.map": "/bbrepo/static/js/main.f5f94dc1.js.map",
+    "453.59a85cbf.chunk.js.map": "/bbrepo/static/js/453.59a85cbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9466c31.css",
+    "static/js/main.f5f94dc1.js"
+  ]
+}
